@@ -1,0 +1,13 @@
+Sample Number: 2,420
+--------------------
+Min: 1,033
+Max: 1,499
+Median: 1,058.5
+--------------------
+Arithmetic Mean: 1,135.8
+Geometric Mean: 1,130.0
+Harmonic Mean: 1,124.4
+--------------------
+Standard Deviation: 117.9
+Skewness: 0.755
+Kurtosis: -0.746
